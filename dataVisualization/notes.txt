@@ -1,0 +1,6 @@
+create new project :
+django-admin startproject mysite
+
+
+//creer un repertoire pour commencer:
+python manage.py startapp templates
